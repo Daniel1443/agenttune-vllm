@@ -1,0 +1,7 @@
+[project]
+name = "agenttune"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "guidellm==0.8.1",
+]

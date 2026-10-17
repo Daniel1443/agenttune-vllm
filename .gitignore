@@ -1,0 +1,9 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+# Raw benchmark output and logs; commit curated results explicitly with `git add -f`
+results/*.log
+results/smoke.json
